@@ -6,8 +6,8 @@
 <hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style5" />
 
 ## 개발 환경
-<p>Uipath Community Cloud Edition</p>
-<p>Windows 10</p>
+<li>Uipath Community Cloud Edition</li>
+<li>Windows 10</li>
 <hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style5" /
 <hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style5" />
 
