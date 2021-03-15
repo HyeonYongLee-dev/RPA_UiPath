@@ -51,5 +51,5 @@
 ## RPA(UiPath) 향후 학습 목표
 1. Orchestrator를 이용한 배포 및 robot 배치
 2. VB뿐만이 아닌 C#을 이용한 프로세스 로직 설계
-
+3. uiArd 자격증 취득을 통해 RPA 전문가로의 성장
 
