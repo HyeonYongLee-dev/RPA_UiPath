@@ -11,7 +11,7 @@
 <hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style5" /
 <hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style5" />
 
-## 로직 별로 사용한 주요 기능
+## 로직 별 사용한 주요 기능
 <p> 1. 레코딩 데이터 스크래핑 중심 로직: Recoding, GetText, Excel Application Scope, DataScraping</p>
 <p> 2. 엑셀 데이터 추출 및 가공 작업: for each row, if문, build data table 등을 이용한 엑셀 데이터를 추출 후 가공 및 엑셀 파일에 쓰는 작업</p>
 <p> 3. 셀렉터: 셀렉터를 이용한 UI 변경시 오류 Tracking</p>
